@@ -36,7 +36,7 @@ The main goal of this dashboard is to **support HR managers and business leaders
 ---
 
 ## 📂 Project Files
-- `Power BI HR Dashboard. pbix` → Main Power BI file  
+- `Power BI HR Dashboard. pbix → Main Power BI file  
 - `HR Analytics Data.xlsx` → HR dataset file  
 - `HR employee data.xlsx` → Employee details file  
 - `README.md` → Documentation  
@@ -46,12 +46,17 @@ The main goal of this dashboard is to **support HR managers and business leaders
 
 ## 📸 Dashboard Preview
 
-### 🏠 Home Page Dashboard HR Screenshot.png
-Home Page Dashboard HR Screenshot.png
+### 🏠 Home Page
+<img width="874" height="485" alt="image" src="https://github.com/user-attachments/assets/8984b445-3cd7-4cb1-ac04-da4f8208b122" />
+
 ### 📑 Details Page
-![Details Page](screenshots/details_page.png)
+<img width="882" height="486" alt="image" src="https://github.com/user-attachments/assets/87c5e0f3-b4d6-405f-ae49-66b6f30a6e26" />
 
 ### 🎯 Action Page
-![Action Page](screenshots/action_page.png)
+<img width="878" height="488" alt="image" src="https://github.com/user-attachments/assets/816308c9-c5f7-4bd5-a23a-7f95db232bfc" />
 
 ---
+
+
+
+
