@@ -46,7 +46,7 @@ The main goal of this dashboard is to **support HR managers and business leaders
 
 ## 📸 Dashboard Preview
 
-### 🏠 Home Page
+### 🏠 Home Page Dashboard HR Screenshot.png
 ![Home Page](screenshots/home_page.png)
 
 ### 📑 Details Page
